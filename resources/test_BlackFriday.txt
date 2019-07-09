@@ -1,0 +1,14 @@
+{ query : {'user_id': '1000001', 'merchant_id': 'P00069042', 'total_spend': '8370', 'day': '2018-10-17'} }
+{ query : {'user_id': '1000001', 'merchant_id': 'P00248942', 'total_spend': '15200', 'day': '2019-01-09'} }
+{ query : {'user_id': '1000001', 'merchant_id': 'P00087842', 'total_spend': '1422', 'day': '2017-06-14'} }
+{ query : {'user_id': '1000001', 'merchant_id': 'P00085442', 'total_spend': '1057', 'day': '2018-04-07'} }
+{ query : {'user_id': '1000002', 'merchant_id': 'P00285442', 'total_spend': '7969', 'day': '2017-07-05'} }
+{ query : {'user_id': '1000003', 'merchant_id': 'P00193542', 'total_spend': '15227', 'day': '2017-10-23'} }
+{ query : {'user_id': '1000004', 'merchant_id': 'P00184942', 'total_spend': '19215', 'day': '2018-12-24'} }
+{ query : {'user_id': '1000004', 'merchant_id': 'P00346142', 'total_spend': '15854', 'day': '2017-10-24'} }
+{ query : {'user_id': '1000004', 'merchant_id': 'P0097242', 'total_spend': '15686', 'day': '2017-05-12'} }
+{ query : {'day':'2010-01-01'} }
+{ query : {'user_id':100} }
+{ query : {'merchant_id':'xyz'} }
+{ query : {'user_id':100,'merchant_id':'xyz'} }
+{ query : {'user_id':100,'merchant_id':'xyz','day':'2010-01-01'} }
