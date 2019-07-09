@@ -4,7 +4,7 @@ arg2="$2"
 if [ ! -n "$arg1" ] || [ ! -n "$arg2" ]
 then
 arg1="./resources/BlackFriday.txt"
-arg2="./resources/test_all.txt"
+arg2="./resources/test_BlackFriday.txt"
 fi
 
 javac -d ./bin ./src/com/bloomfilter/BloomFilter.java
