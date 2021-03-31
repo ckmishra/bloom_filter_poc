@@ -12,3 +12,4 @@ javac -d ./bin ./src/com/bloomfilter/BigDataStore.java -cp "./bin:./ext/*"
 javac -d ./bin ./test/com/bloomfilter/*.java -cp "./bin:./ext/*"
 java  -cp "./bin:./ext/*"  com.bloomfilter.BloomFilterTest
 java -cp "./bin:./ext/*" com.bloomfilter.BigDataStoreTest $arg1 $arg2
+
